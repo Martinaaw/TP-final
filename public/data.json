@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "nombre": "Apple iPhone 13 Pro",
+      "imagen": "https://www.apple.com/v/iphone-13-pro/c/images/overview/design/finish_1_silver__czpyqgk1d2ea_large.jpg",
+      "precio": "$999",
+      "detalles": "Super Retina XDR de 6.1 pulgadas"
+    },
+    {
+      "id": 2,
+      "nombre": "Dell XPS 13",
+     "imagen": "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/xps-13-9305-laptop.jpg",
+      "precio": "$1,199",
+      "detalles": "InfinityEdge de 13.4 pulgadas Full HD+, Intel Core i7 de 11ª generación, 16 GB con 512 GB de almacenamiento SSD"
+    },
+    {
+      "id": 3,
+      "nombre": "Apple Watch Series 7",
+      "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MKN03_VW_34FR+watch-44-alum-midnight-cell-6s_VW_34FR_WF_CO?wid=1024&hei=1024&fmt=jpeg&qlt=80&.v=1632171038000",
+      "precio": "$399",
+      "detalles": "Retina siempre activa, 20% más grande que la Serie 6"
+    },
+    {
+      "id": 4,
+      "nombre": "Sony WH-1000XM4",
+      "imagen": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SX425_.jpg",
+      "precio": "$348",
+      "detalles": "Cancelación de ruido líder en la industria y hasta 30 horas de duración de batería con carga rápida"
+    }
+  ]
+  
