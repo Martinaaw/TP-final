@@ -2,21 +2,21 @@
     {
       "id": 1,
       "nombre": "Apple iPhone 13 Pro",
-      "imagen": "https://www.apple.com/v/iphone-13-pro/c/images/overview/design/finish_1_silver__czpyqgk1d2ea_large.jpg",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_746909-MLA74651639312_022024-O.webp",
       "precio": "$999",
       "detalles": "Super Retina XDR de 6.1 pulgadas"
     },
     {
       "id": 2,
       "nombre": "Dell XPS 13",
-     "imagen": "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/xps-13-9305-laptop.jpg",
+     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4DfSaTdiyKzDFFeVzYC1n7XzAPrEFczaKw&s",
       "precio": "$1,199",
       "detalles": "InfinityEdge de 13.4 pulgadas Full HD+, Intel Core i7 de 11ª generación, 16 GB con 512 GB de almacenamiento SSD"
     },
     {
       "id": 3,
       "nombre": "Apple Watch Series 7",
-      "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MKN03_VW_34FR+watch-44-alum-midnight-cell-6s_VW_34FR_WF_CO?wid=1024&hei=1024&fmt=jpeg&qlt=80&.v=1632171038000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOs0Ee2UM2pSdlKR-dLp0seRHomx0UnPIj_w&s",
       "precio": "$399",
       "detalles": "Retina siempre activa, 20% más grande que la Serie 6"
     },
